@@ -43,7 +43,7 @@ npm install
 - running script
 
 ```bash
-npm run start
+ node index.js
 ```
 
 [ WARNING ] this bot in development stage, if bot error you can try again. some error or bug will be fixed.
